@@ -1,3 +1,4 @@
+My hand at Travis CI, dont use this code ever.
 ## AltBeacon Transmitter
 
 This app demonstrates how to use Android L APIs to transmit as a beacon.  By default it will transmit an AltBeacon advertisement, but can easily be modified to transmit any other
